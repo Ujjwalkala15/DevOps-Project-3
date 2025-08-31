@@ -1,5 +1,3 @@
----
-
 ## 📘 Nginx Log Analyzer
 
 A simple Python script to analyze Nginx access logs and extract useful insights like:
@@ -101,6 +99,4 @@ If your log format is different, you may need to adjust how the script splits an
 ## 🙌 Credits
 
 Created by Ujjwal Kala
-Site Reliability Engineer | Python & Infrastructure Specialist
-
----
+Site Reliability Engineer
